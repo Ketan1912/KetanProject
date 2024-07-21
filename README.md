@@ -1,1 +1,2 @@
+TRAFFIC LIGHT CONTROLLER 
 This project centers on designing a Traffic Light Controller in Verilog. The controller simulates a traffic light system at an intersection, managing the signals for four sets of lights: two primary links (M1 and M2), a primary turning lane (MT), and a secondary link (S). The controller is like an FSM with six states and it changes from one state to the other according to time intervals.
